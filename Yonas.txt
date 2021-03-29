@@ -1,1 +1,11 @@
-test
+commit 7106c778b2b064829302470c6e262b117dbc244e (HEAD -> main, origin/Yonas, Yonas)
+Author: Yonas Romell <yonas.romell@live.se>
+Date:   Mon Mar 29 19:54:48 2021 +0200
+
+    1st commit in branch Yonas
+
+commit 08a701a3237065666471b14cff0ebb211bf511cc (origin/main)
+Author: Yonas Romell <yonas.romell@live.se>
+Date:   Mon Mar 29 19:51:05 2021 +0200
+
+    first commit
